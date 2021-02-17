@@ -1,0 +1,13 @@
+.mainbox{
+    color:aqua;
+    border-color: rgb(255, 0, 0) ;
+}
+.item{
+    color: rgb(153, 248, 0);
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(95, 8, 194, 0.493);
+}
+*{
+    border: solid;
+}
